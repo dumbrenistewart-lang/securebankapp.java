@@ -1,0 +1,2 @@
+# username|salt(Base64)|pbkdf2Iterations|passwordHash(Base64)
+myth|MZyrsQFi60C9vVIvgh42qA==|600000|yhK2LtsSmb0HxNlQ/ef8dEhyy+eE2LFGl+bU6BSq0H0=
